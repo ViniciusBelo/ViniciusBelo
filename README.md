@@ -59,6 +59,18 @@
 
 <br/>
 
+### 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusBelo/ViniciusBelo/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusBelo/ViniciusBelo/output/github-snake.svg">
+    <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/ViniciusBelo/ViniciusBelo/output/github-snake.svg">
+  </picture>
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ViniciusBelo&style=for-the-badge&color=blueviolet" alt="Perfil views"/>
 </p>
